@@ -50,7 +50,7 @@ $ pnpm run start:prod
 
 ## Running the Application
 
-App will start on localhost:3000 by default. To trigger the sending emails, the endpoint is `http://localhost:3000/send-email`. You can use [Postman](https://www.postman.com/) or any other REST based playgrounds. 
+App will start on port `3000` by default. To trigger sending the emails, the endpoint is `http://localhost:3000/send-email`. You can use [Postman](https://www.postman.com/) or any other REST based playgrounds. 
 
 The format of the `to` parameter is a string (required) which represents the participants' email addresses separated by a comma, for example:
 
