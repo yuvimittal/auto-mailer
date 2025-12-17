@@ -58,9 +58,6 @@ The format of the `to` parameter is a string (required) which represents the par
 to = 'email1@example.com,email2@example.com,email3@example.com' and so on...
 ```
 
-## License
-This project is licensed under the MIT License.
-
 ## Run tests
 
 ```bash
